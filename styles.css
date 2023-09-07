@@ -1,0 +1,19 @@
+*{
+background-image: url('garchomp.png');
+    background-position-x: right; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    font-size: 24px;
+    background-color: #ffa500;
+}
+
+h1{text-align: center;
+font-size: 45px;}
+
+#megaGarchompContainer {
+    background-color: orange;
+  }
+
+
+  
+  
